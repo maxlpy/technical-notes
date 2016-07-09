@@ -1,4 +1,4 @@
-### Accessibility of classes and members
+### 1. Accessibility of classes and members
 
 For members (fields, methods, nested classes, and nested interfaces), there are four possible access levels, listed here in order of increasing accessibility:
 
@@ -10,7 +10,7 @@ For members (fields, methods, nested classes, and nested interfaces), there are 
 
 * <b>public</b>: The member is accessible from anywhere.
 
-### Examples
+#### Examples
 * Delegation
 ```
 public class A {
