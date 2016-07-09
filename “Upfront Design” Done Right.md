@@ -1,4 +1,4 @@
-## “Upfront Design” Done Right
+### “Upfront Design” Done Right
 
 Am I exaggerating? You bet I am, but my experience has shown to me that if the team does no upfront design, they are very likely to make these mistakes. I have seen this happen over and over again, and the odds are that you have seen this too.
 
