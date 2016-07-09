@@ -31,3 +31,5 @@ We can fulfil all these concerns by using “only” three layers. These layers 
 * <b>The repository layer</b> is the lowest layer of a web application. It is responsible of communicating with the used data storage.
 
 Reference from http://www.petrikainulainen.net/software-development/design/understanding-spring-web-application-architecture-the-classic-way/
+
+Note: There are still more valuable articles about software design in this link. See [here](http://www.petrikainulainen.net/category/software-development/design/)
