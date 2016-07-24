@@ -6,4 +6,4 @@
 
 #### Regular expression tutorial, see [here](http://deerchao.net/tutorials/regex/regex.htm)
 
-#### Python tutorial, seet [here](http://www-rohan.sdsu.edu/~gawron/python_for_ss/course_core/book_draft/index.html)
+#### Tutorial, see [here](http://www-rohan.sdsu.edu/~gawron/python_for_ss/course_core/book_draft/index.html)
