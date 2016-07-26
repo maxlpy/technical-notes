@@ -7,3 +7,5 @@
 #### Regular expression tutorial, see [here](http://deerchao.net/tutorials/regex/regex.htm)
 
 #### Tutorial, see [here](http://www-rohan.sdsu.edu/~gawron/python_for_ss/course_core/book_draft/index.html)
+
+#### Database Transactions, see[here](https://youtu.be/PguCDI_fi3U)
