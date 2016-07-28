@@ -1,0 +1,6 @@
+In concurrent programming, how to avoid duplicated data in database? Please refer to the following solutions:
+- Use synchronized block in Java, please refer to [here](http://www.javatpoint.com/synchronized-block-example)
+- Construct unique constraints on the primary key in database. For example, if you deal with the cases of third party jar, and each jar has groupId, artifactId and version number(GAV). We can create a composite key using gav with unqiue constraints. 
+
+
+ 
