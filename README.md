@@ -9,6 +9,7 @@
 #### Tutorial, see [here](http://www-rohan.sdsu.edu/~gawron/python_for_ss/course_core/book_draft/index.html)
 
 #### Database Transactions, see[here](https://youtu.be/PguCDI_fi3U)
+#### Database Design, see [here](https://www.youtube.com/watch?v=L7cKjALS47o&index=2&list=PLgSosK9t-PtSS-6bKn3ksGAnb6txj84It#t=270.934713)
 
 #### Web
 - jQWidgets, see[here](http://www.jqwidgets.com/jquery-widgets-demo/demos/jqxgrid/index.htm)
