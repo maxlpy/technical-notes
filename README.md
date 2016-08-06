@@ -14,3 +14,5 @@
 #### Web
 - jQWidgets, see[here](http://www.jqwidgets.com/jquery-widgets-demo/demos/jqxgrid/index.htm)
 - Webjars
+#### Good learning materials
+- see [here](http://www.growingwiththeweb.com/projects/)
