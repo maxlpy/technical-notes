@@ -16,6 +16,7 @@
 - Webjars
 - How to get a scrollbar in a div with fixed header and footer?, see [here](http://jsfiddle.net/wPucQ/321/)
 - Web Security, see [here](http://www.baeldung.com/get-user-in-spring-security)
+- Sending Email In Spring Boot, see [here](https://www.youtube.com/watch?v=MgOdvqvF6gk)
 #### Good learning materials
 - See [here](http://www.growingwiththeweb.com/projects/)
 - http://rosettacode.org/wiki/Rosetta_Code
