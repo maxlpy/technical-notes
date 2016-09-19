@@ -24,3 +24,6 @@
 
 #### Design Pattern 
 - See [here](https://sourcemaking.com/design_patterns)
+- 
+#### Tools
+- http://open-edx-windows-7-installation-instructions.readthedocs.io/en/latest/6_Install_cURL_for_Windows.html
