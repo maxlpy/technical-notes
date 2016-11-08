@@ -8,11 +8,11 @@
 
 #### Tutorial, see [here](http://www-rohan.sdsu.edu/~gawron/python_for_ss/course_core/book_draft/index.html)
 
-#### Database Transactions, see[here](https://youtu.be/PguCDI_fi3U)
+#### Database Transactions, see [here](https://youtu.be/PguCDI_fi3U)
 #### Database Design, see [here](https://www.youtube.com/watch?v=L7cKjALS47o&index=2&list=PLgSosK9t-PtSS-6bKn3ksGAnb6txj84It#t=270.934713)
 
 #### Web
-- jQWidgets, see[here](http://www.jqwidgets.com/jquery-widgets-demo/demos/jqxgrid/index.htm)
+- jQWidgets, see [here](http://www.jqwidgets.com/jquery-widgets-demo/demos/jqxgrid/index.htm)
 - Webjars
 - How to get a scrollbar in a div with fixed header and footer?, see [here](http://jsfiddle.net/wPucQ/321/)
 - Web Security, see [here](http://www.baeldung.com/get-user-in-spring-security)
@@ -26,4 +26,7 @@
 - See [here](https://sourcemaking.com/design_patterns)
 - 
 #### Tools
-- http://open-edx-windows-7-installation-instructions.readthedocs.io/en/latest/6_Install_cURL_for_Windows.html
+- See [here]http://open-edx-windows-7-installation-instructions.readthedocs.io/en/latest/6_Install_cURL_for_Windows.html
+
+#### Develop Gradle Plugin
+- See [here](https://thomassundberg.wordpress.com/2015/03/22/a-gradle-plugin-written-in-java/)
