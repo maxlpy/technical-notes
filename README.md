@@ -26,7 +26,7 @@
 - See [here](https://sourcemaking.com/design_patterns)
 - 
 #### Tools
-- See [here]http://open-edx-windows-7-installation-instructions.readthedocs.io/en/latest/6_Install_cURL_for_Windows.html
+- See [here](http://open-edx-windows-7-installation-instructions.readthedocs.io/en/latest/6_Install_cURL_for_Windows.html)
 
 #### Develop Gradle Plugin
 - See [here](https://thomassundberg.wordpress.com/2015/03/22/a-gradle-plugin-written-in-java/)
