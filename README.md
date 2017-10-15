@@ -30,3 +30,6 @@
 
 #### Develop Gradle Plugin
 - See [here](https://thomassundberg.wordpress.com/2015/03/22/a-gradle-plugin-written-in-java/)
+
+#### Leetcode Summary
+- See [here](https://mnmunknown.gitbooks.io/algorithm-notes/content/)
